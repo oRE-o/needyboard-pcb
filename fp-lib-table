@@ -2,5 +2,4 @@
   (version 7)
   (lib (name "Keebio-Parts.pretty-master")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty-master")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/footprints")(options "")(descr ""))
 )
